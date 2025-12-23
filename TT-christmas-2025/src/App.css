@@ -15,7 +15,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  min-height: 100vh;
+  min-height: 100svh; 
   justify-content: center;
   width: 100%;
 
@@ -55,9 +55,6 @@ body {
 }
 
 /* present.tsx */
-.present-container {
-}
-
 .present-image-container {
   width: 150px;
   animation: sway 1.5s ease-in-out infinite;
@@ -96,7 +93,7 @@ body {
 }
 
 .close:hover {
-  background-color: white;
+  background-color: rgb(254, 221, 227);
   color: rgb(126, 0, 0);
   border-color:  rgb(126, 0, 0);
 }
@@ -111,7 +108,7 @@ body {
 }
 
 .download-image:hover {
-  background-color: white;
+  background-color: rgb(254, 221, 227);
   color: rgb(126, 0, 0);
   
 }
