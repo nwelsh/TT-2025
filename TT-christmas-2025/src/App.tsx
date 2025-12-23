@@ -1,10 +1,7 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
 import Present from "./present";
 import present1 from "./images/present1.png";
-import image1 from "./images/image1.jpg";
 import lexi from "./images/lexi.png";
 import photobooth from "./images/mike.png";
 import cousins from "./images/cousins.png";
