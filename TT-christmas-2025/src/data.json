@@ -1,0 +1,24 @@
+[
+    {
+      "id": "box-1",
+      "title": "Holiday Party",
+      "thumbnail": "/images/thumbs/party.jpg",
+      "image": "/images/full/party.jpg",
+      "alt": "Office holiday party"
+    },
+    {
+      "id": "box-2",
+      "title": "Christmas Tree",
+      "thumbnail": "/images/thumbs/tree.jpg",
+      "image": "/images/full/tree.jpg",
+      "alt": "Decorated Christmas tree"
+    },
+    {
+      "id": "box-3",
+      "title": "Snowy Street",
+      "thumbnail": "/images/thumbs/snow.jpg",
+      "image": "/images/full/snow.jpg",
+      "alt": "Snow covered street at night"
+    }
+  ]
+  
