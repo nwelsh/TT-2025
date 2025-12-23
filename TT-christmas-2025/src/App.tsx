@@ -99,7 +99,12 @@ function App() {
       </div>
       {activeImage && (
         <dialog open className="modal">
-          <img src={activeImage} className="present-image" alt="Full size" />
+          <img
+            src={activeImage}
+            className="present-image"
+            alt="Full size"
+            onClick={() => window.open(activeImage, "_blank")}
+          />
 
           <div className="button-container">
             <button className="close" onClick={() => setActiveImage(null)}>
