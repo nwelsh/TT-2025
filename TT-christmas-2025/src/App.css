@@ -140,7 +140,7 @@ body {
   }
 
   .present-image {
-    height: 220px;
+    /* height: 220px; */
   }
 }
 
@@ -176,7 +176,7 @@ body {
   }
 
   .present-image {
-    height: 150px;
+    /* height: 250px; */
   }
 
   .button-container {
