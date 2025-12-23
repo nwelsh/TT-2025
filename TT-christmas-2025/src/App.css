@@ -46,6 +46,11 @@ body {
   margin: 0;
 }
 
+.sign {
+  color: #7d766c;
+  font-size: 1rem;
+}
+
 .present-grid {
   display: flex;
   flex-direction: row;

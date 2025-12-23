@@ -94,6 +94,8 @@ function App() {
           ))}
         </div>
       </div>
+      <p className="sign">❤️ Mike and Nicole</p>
+
       {activeImage && (
         <dialog open className="modal">
           <img
