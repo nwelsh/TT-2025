@@ -143,8 +143,6 @@ body {
 
   .modal {
     max-width: 85vw;
-    position: absolute;
-    margin-top: 3rem;
   }
 
   .present-image {
@@ -181,6 +179,8 @@ body {
 
   .modal {
     max-width: 95vw;
+    position: absolute;
+    margin-top: 3rem;
   }
 
   .present-image {
