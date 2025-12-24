@@ -19,6 +19,12 @@ function App() {
   const data = [
     {
       presentImg: present1,
+      img: cousins,
+      title: "cousins",
+      alt: "",
+    },
+    {
+      presentImg: present1,
       img: lexi,
       title: "lexi",
       alt: "LEXI",
@@ -31,6 +37,12 @@ function App() {
     },
     {
       presentImg: present1,
+      img: game,
+      title: "game",
+      alt: "game",
+    },
+    {
+      presentImg: present1,
       img: rome,
       title: "rome",
       alt: "rome",
@@ -40,18 +52,6 @@ function App() {
       img: lexi2,
       title: "lexi2",
       alt: "lexi2",
-    },
-    {
-      presentImg: present1,
-      img: cousins,
-      title: "cousins",
-      alt: "",
-    },
-    {
-      presentImg: present1,
-      img: game,
-      title: "game",
-      alt: "game",
     },
     {
       presentImg: present1,
@@ -70,12 +70,6 @@ function App() {
       img: zoo,
       title: "present 1",
       alt: "present 1",
-    },
-    {
-      presentImg: present1,
-      img: us,
-      title: "present 2",
-      alt: "present 2",
     }
   ];
 

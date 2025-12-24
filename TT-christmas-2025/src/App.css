@@ -143,6 +143,8 @@ body {
 
   .modal {
     max-width: 85vw;
+    position: absolute;
+    margin-top: 3rem;
   }
 
   .present-image {
@@ -153,7 +155,7 @@ body {
 
 @media (max-width: 640px) {
   .main {
-    padding: 1rem;
+    padding: 1rem;;
   }
 
   .container {
