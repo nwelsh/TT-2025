@@ -76,19 +76,7 @@ function App() {
       img: us,
       title: "present 2",
       alt: "present 2",
-    },
-    {
-      presentImg: present1,
-      img: us,
-      title: "present 2",
-      alt: "present 2",
-    },
-    {
-      presentImg: present1,
-      img: us,
-      title: "present 2",
-      alt: "present 2",
-    },
+    }
   ];
 
   return (
