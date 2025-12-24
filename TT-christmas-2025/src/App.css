@@ -3,7 +3,11 @@
   50%  { transform: rotate(10deg); }
   100% { transform: rotate(-10deg); }
 }
-
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
 body {
   place-items: normal;
