@@ -180,7 +180,7 @@ body {
   .modal {
     max-width: 95vw;
     position: absolute;
-    margin-top: 3rem;
+    top: 3rem;
   }
 
   .present-image {
